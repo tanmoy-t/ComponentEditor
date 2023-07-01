@@ -1,7 +1,7 @@
 {
   "name": "2.5 MFD CAPACITOR",
   "version": "2.5 MICROFARAD",
-  "description": "circuito.io Component Editor",
+  "description": "capacitor",
   "main": "./src/index.js",
   "scripts": {
     "build": "webpack -p --mode production --env prod",
