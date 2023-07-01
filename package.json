@@ -1,6 +1,6 @@
 {
   "name": "2.5 MFD CAPACITOR",
-  "version": "1.0.0",
+  "version": "2.5 MICROFARAD",
   "description": "circuito.io Component Editor",
   "main": "./src/index.js",
   "scripts": {
